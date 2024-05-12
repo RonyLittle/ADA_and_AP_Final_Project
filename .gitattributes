@@ -1,0 +1,5 @@
+new_processed_pisa_data.csv" filter=lfs diff=lfs merge=lfs -text
+new_processed_pisa_data.csv filter=lfs diff=lfs merge=lfs -text
+Project[[:space:]]Pisa.ipynb filter=lfs diff=lfs merge=lfs -text
+first_half.csv filter=lfs diff=lfs merge=lfs -text
+second_half.csv filter=lfs diff=lfs merge=lfs -text
